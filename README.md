@@ -1,2 +1,7 @@
-# demo-sn-odontologia-integral
-Demo web para SN ODONTOLOGIA INTEGRAL — diseñada por eterlab.
+# SN ODONTOLOGIA INTEGRAL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
